@@ -1,0 +1,40 @@
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+
+}
+
+.div_speed_img {
+    border-radius: 100px;
+    width: 200px;
+}
+
+.div_volume {
+    float: right;
+
+}
+
+.div_volume_img {
+    border-radius: 100px;
+    width: 200px;
+}
+
+.heading {
+    width: 100%;
+    height: 100%;
+    font-size: large;
+    color: blue;
+}
+
+.note {
+    color: red;
+}
+
+canvas {
+    border-color: white;
+    border-radius: 100%;
+    box-shadow: 5px 5px 5px gray;
+}
